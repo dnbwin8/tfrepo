@@ -2,8 +2,8 @@ variable "one" {
   default = 1
 }
 
-variable "two" {
-  default = 2
+variable four" {
+  default = 4
 }
 variable "three" {
   default = 3
