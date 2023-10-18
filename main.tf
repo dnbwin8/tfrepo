@@ -2,7 +2,7 @@ variable "one" {
   default = 1
 }
 
-variable four" {
+variable "four" {
   default = 4
 }
 variable "three" {
