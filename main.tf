@@ -10,5 +10,5 @@ variable "three" {
 }
 
 output "max" {
-  value = "${max(var.one,var.two,var.four)}"
+  value = "${max(var.one,var.three,var.four)}"
 }
